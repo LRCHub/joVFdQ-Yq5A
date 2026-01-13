@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "風の噂",
+  "base_artist": "トンボコープ",
+  "createdAt": "2026-01-13T22:25:34.690041Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "風の噂 - A little bird told me",
+      "artist": "tombo coop",
+      "has_synced": true,
+      "path": "select/01_風の噂_-_A_little_bird_told_me_tombo_coop.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風の噂",
+      "artist": "トンボコープ",
+      "has_synced": false,
+      "path": "select/pl_01_風の噂_トンボコープ.txt"
+    }
+  ]
+}
